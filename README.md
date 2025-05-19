@@ -1,1 +1,1 @@
-<img src="https://your-own-image-url.com/lua-gradient-badge.png" width="150"/>
+<img src="https://img.shields.io/badge/-Lua-blueviolet?style=for-the-badge&logo=lua&logoColor=white"/>
