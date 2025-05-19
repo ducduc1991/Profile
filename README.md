@@ -11,4 +11,12 @@
 📧 Email: yourname@example.com  
 🌐 GitHub: [github.com/yourusername](https://github.com/yourusername)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Snake animation](https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+</p>
+
+<h3 align="center">Xin chào! Mình là Nam 👋</h3>
+
+<p align="center">
+  💻 Lua Developer • 🎮 Game Lover • ☕ Minimalist
+</p>
