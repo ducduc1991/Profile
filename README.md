@@ -1,22 +1,33 @@
-# 👋 Xin chào! Tôi là [Tên của bạn]
-
-🔹 Lập trình viên sử dụng **Lua** là ngôn ngữ chính  
-🔹 Đam mê tạo công cụ đơn giản, hiệu quả và dễ mở rộng  
-🔹 Luôn học hỏi và tối ưu hoá từng dòng code
-
-## 🔧 Kỹ năng chính:
-![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
-
-## 📫 Liên hệ:
-📧 Email: yourname@example.com  
-🌐 GitHub: [github.com/yourusername](https://github.com/yourusername)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="150"/>
 </p>
 
-<h3 align="center">Xin chào! Mình là Nam 👋</h3>
+<h2 align="center">Hi 👋, I'm Nam — Lua Developer</h2>
 
 <p align="center">
-  💻 Lua Developer • 🎮 Game Lover • ☕ Minimalist
+  💡 Yêu thích sự tối giản, code sạch và tối ưu<br/>
+  🔥 Hiện đang làm việc chủ yếu với <b>Lua</b><br/>
+</p>
+
+---
+
+### 🛠️ Tech Stack:
+
+<p>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg"/>
 </p>
